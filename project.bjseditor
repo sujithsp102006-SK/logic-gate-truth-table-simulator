@@ -1,0 +1,8 @@
+{
+    "plugins": [],
+    "version": "5.4.6",
+    "packageManager": "npm",
+    "lastOpenedScene": "/assets/example.scene",
+    "compressedTexturesEnabled": false,
+    "compressedTexturesEnabledInPreview": false
+}
